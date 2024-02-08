@@ -1,0 +1,15 @@
+.navbar {
+  background-color: var(--secondColor) !important;
+}
+
+.navbar.scrolled {
+  height: 50px;
+}
+
+.nav-style {
+  background-color: var(--mainColor);
+}
+
+.nav-link {
+  color: var(--forthColor) !important;
+}

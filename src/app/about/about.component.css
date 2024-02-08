@@ -1,0 +1,16 @@
+#about {
+  background-color: #1abc9c;
+  padding-block: 4rem !important;
+}
+
+/* @media (min-width: 992px) {
+  .row div {
+    padding: 20px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .row div {
+    padding: 0px !important;
+  }
+} */

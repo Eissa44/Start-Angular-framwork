@@ -1,0 +1,37 @@
+#page-404 {
+  overflow: hidden;
+  margin-top: 100px;
+  padding: 40px 0;
+  background: #fff;
+  font-family: "Arvo", serif;
+}
+
+#page-404 img {
+  width: 100%;
+}
+
+.page-error {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+
+  height: 50vh;
+  background-position: center;
+}
+
+.page-error h1 {
+  font-size: 80px;
+}
+
+.page-error h3 {
+  font-size: 80px;
+}
+
+.link-404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #1abc9c;
+  margin: 20px 0;
+  display: inline-block;
+}
+.contant-box {
+  margin-top: -50px;
+}

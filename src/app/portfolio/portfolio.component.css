@@ -1,0 +1,20 @@
+#portfolio {
+  color: var(--secondColor);
+}
+.star-portfolio {
+  color: var(--secondColor);
+}
+
+#detilse {
+  background-color: #3c55a793;
+}
+
+.layer {
+  background-color: var(--mainColor);
+  visibility: hidden;
+  transition: vivisibility 0.8s;
+}
+
+.layer-content:hover .layer {
+  visibility: visible;
+}
