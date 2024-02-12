@@ -1,9 +1,9 @@
 .navbar {
-  background-color: var(--secondColor) !important;
+  background-color: var(--thirdColor) !important;
 }
 
 .navbar.scrolled {
-  height: 50px;
+  height: 80px;
 }
 
 .nav-style {

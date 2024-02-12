@@ -1,12 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
-  --mainColor: #1abc9c;
-  --secondColor: #2c3e50;
-  --thirdColor: #162028;
+  --mainColor: #000c66;
+  --secondColor: #00041f;
+  --thirdColor: #000633;
   --forthColor: #fff;
 }
+/*   */
 
 a {
   text-decoration: none;
   display: inline-block;
+  /* f09310  f09310   d8840e */
 }
+
+/*
+
+*/

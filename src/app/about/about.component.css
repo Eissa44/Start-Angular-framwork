@@ -1,5 +1,5 @@
 #about {
-  background-color: #1abc9c;
+  background-color: var(--mainColor);
   padding-block: 4rem !important;
 }
 

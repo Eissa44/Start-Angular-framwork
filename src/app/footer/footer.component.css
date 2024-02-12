@@ -1,9 +1,9 @@
 #footer .copy {
-  background-color: #1a252f;
+  background-color: var(--secondColor);
 }
 
 #footer {
-  background-color: #2c3e50;
+  background-color: var(--thirdColor);
 }
 
 .links a i {
