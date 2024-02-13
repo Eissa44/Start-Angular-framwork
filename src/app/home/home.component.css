@@ -2,14 +2,14 @@
   background-color: var(--mainColor) !important;
 }
 
+#home strong {
+  color: #7af4ff;
+}
+
 @media (max-width: 992px) {
   #home .row {
     flex-direction: column-reverse;
   }
-}
-
-#home strong {
-  color: #7af4ff;
 }
 
 @media (max-width: 576px) {

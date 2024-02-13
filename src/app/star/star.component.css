@@ -1,10 +1,10 @@
 .right-line,
 .left-line {
-  background-color: var(--secondColor);
+  background-color: var(--forthColor);
   height: 3px;
   width: 100px;
 }
 
 div i {
-  color: var(--secondColor);
+  /* color: var(--secondColor); */
 }

@@ -13,3 +13,33 @@
 .nav-link {
   color: var(--forthColor) !important;
 }
+
+@media (max-width: 992px) {
+  .navbar.scrolled {
+    height: 100%;
+  }
+
+  .nav-link {
+    margin-inline: 0 !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar.scrolled {
+    height: 100%;
+  }
+
+  .nav-link {
+    margin-inline: 0 !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar.scrolled {
+    height: 100%;
+  }
+
+  .nav-link {
+    margin-inline: 0 !important;
+  }
+}

@@ -7,6 +7,7 @@ import { ContactComponent } from './contact/contact.component';
 import { Page44Component } from './page44/page44.component';
 
 const routes: Routes = [
+  // {path:'',}
   { path: 'home', component: HomeComponent, title: 'Home' },
   { path: 'about', component: AboutComponent, title: 'About' },
   { path: 'portfolio', component: PortfolioComponent, title: 'Portfolio' },

@@ -10,6 +10,7 @@ export class ContactComponent {
   flag2: boolean = false;
   flag3: boolean = false;
   flag4: boolean = false;
+
   showLabel1(e: any) {
     e.target.value.length > 0 ? (this.flag1 = true) : (this.flag1 = false);
   }

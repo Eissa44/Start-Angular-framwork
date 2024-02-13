@@ -1,8 +1,5 @@
 #portfolio {
-  color: var(--secondColor);
-}
-.star-portfolio {
-  color: var(--secondColor);
+  color: var(--mainColor);
 }
 
 #detilse {
